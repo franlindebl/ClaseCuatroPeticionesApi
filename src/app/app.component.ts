@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ClaseCuatroPeticionesApi';
+
+  public apiURL = 'https://jsonplaceholder.typicode.com/users';
+
 }
